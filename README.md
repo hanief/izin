@@ -1,0 +1,2 @@
+# izin
+Laravel permission library
